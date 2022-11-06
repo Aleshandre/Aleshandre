@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Aleshandre
+- 👀 I’m from Bolivian 
 - 👀 I’m interested in Negocios and Amistad
 - 🌱 I’m currently learning Power BI
 - 💞️ I’m looking to collaborate on Power BI
